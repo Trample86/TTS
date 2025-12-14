@@ -1,4 +1,5 @@
-﻿user,userpw
-dragon,1234
-gary,2345
-jake,3456
+﻿user,userpw,role
+dragon,1234,STAFF
+gary,2345,USER
+jake,3456,USER
+
