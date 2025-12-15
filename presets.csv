@@ -1,7 +1,8 @@
-﻿user,userpw,role
-dragon,b'$2b$12$Sncx8FADHD/Ul94vRmLWTeFMSvok5UegUFEjQtl1YfCsMRleUa/9u',STAFF
-gary,b'$2b$12$Sncx8FADHD/Ul94vRmLWTewkLzVMJI8bhoKj4g457efZgSEtvPji.',USER
-jake,b'$2b$12$Sncx8FADHD/Ul94vRmLWTe5r2PNSAthE1M7HyOmRMkqfZBaSRPpNu',USER
+﻿user,hashedpw,role
+dragon,1234,STAFF
+gary,2345,USER
+jake,3456,USER
+
 
 
 
