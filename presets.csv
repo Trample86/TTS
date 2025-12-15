@@ -1,5 +1,6 @@
 ﻿user,userpw,role
-dragon,1234,STAFF
-gary,2345,USER
-jake,3456,USER
+dragon,b'$2b$12$/oewvniScY3CmFUNinMtlOXRRYigkGvu6Ljc3ZiqK1erGJNwuWnlS',STAFF
+gary,b'$2b$12$URySoPNKb4/BXccAUXpdCOlem0FphpwwVbHn//RsBlIQKQTL5SoOu',USER
+jake,b'$2b$12$G/hctY6CdmuH2alGNzedw.DNTvyd3XuOwf9K9wUAWhEvGVBdeVy1m',USER
+
 
